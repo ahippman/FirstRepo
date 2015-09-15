@@ -6,3 +6,11 @@ This amazing sentence that I am writing right now you will be reading as you rea
 This is another line where I will check if the push workd without me having to fill in the info
 
 And one more try
+
+OK now i figured it out! I had forgotten to first commit THEN push. SO to recap:
+
+1) Save
+2) Commit
+3) Push
+
+I wonder what happens if I commit, then change and save and Then commit again and push only in the end.... hhhhmmmmm
