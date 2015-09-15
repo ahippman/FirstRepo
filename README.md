@@ -14,3 +14,5 @@ OK now i figured it out! I had forgotten to first commit THEN push. SO to recap:
 3) Push
 
 I wonder what happens if I commit, then change and save and Then commit again and push only in the end.... hhhhmmmmm
+
+Alright now we try it! -> safe and commit
