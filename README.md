@@ -15,4 +15,4 @@ OK now i figured it out! I had forgotten to first commit THEN push. SO to recap:
 
 I wonder what happens if I commit, then change and save and Then commit again and push only in the end.... hhhhmmmmm
 
-Alright now we try it! -> safe and commit
+Alright now we try it! -> safe and COMMIT now written in capitals and added stuff
